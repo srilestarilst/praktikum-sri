@@ -1,0 +1,25 @@
+body {
+	width: 100%;
+	height: 100%;
+	margin: 0%;
+	padding: 0px;
+	background-color: #d8bfd8;
+	font-family: Verdana, Ganeva, Tahoma, sans-serif;
+}
+
+#profile-container {
+	max-width: 300px;
+	margin: 80px auto;
+	background-color: white;
+	border: 1px solid gray;
+	border-radius: 6px;
+}
+
+#profile-picture {
+	width: 100%;
+	height: auto;
+}
+
+#profile-name {
+	text-align: center
+}
